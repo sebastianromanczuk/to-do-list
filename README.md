@@ -1,8 +1,6 @@
 # to-do-list
 
-## LINK:
-
-![Lista Zadania] (https://i.postimg.cc/JzSvmJ7z/Lista-zadania.png)
+## LINK:  https://sebastianromanczuk.github.io/to-do-list/
 
 ### Functions used
 
