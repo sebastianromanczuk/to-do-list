@@ -6,7 +6,7 @@ html {
   ::after,
   ::before {
     box-sizing: inherit;
-  }
+  }  
 
   body {
     background-color: rgba(244, 239, 239, 0.909);
