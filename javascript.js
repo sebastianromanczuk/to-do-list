@@ -27,7 +27,7 @@
           toggleTaskDone(index);
           render();
         });
-      });
+      }); 
     };
   
     const addNewTask = (newTaskContent) => {
