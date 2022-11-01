@@ -6,7 +6,7 @@
 
 ![to-do-list](https://i.postimg.cc/1tRkMs4w/1.png)
 
-### Functions used
+### Functions used...
 
 - Css
 - JavaScript
