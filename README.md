@@ -1,10 +1,10 @@
 # to-do-list
 
-## LINK:  https://sebastianromanczuk.github.io/to-do-list/
+## LINK:
 
 ## Picture JS,HTML,CSS
 
-![to-do-list](https://i.postimg.cc/JzSvmJ7z/Lista-zadania.png)
+![to-do-list](https://i.postimg.cc/1tRkMs4w/1.png)
 
 ### Functions used
 
