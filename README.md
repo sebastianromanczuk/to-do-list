@@ -1,6 +1,6 @@
 # to-do-list
 
-## LINK:
+## LINK: https://sebastianromanczuk.github.io/to-do-list/
 
 ## Picture JS,HTML,CSS
 
