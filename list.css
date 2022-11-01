@@ -23,7 +23,7 @@
     color: white;
     cursor: pointer;
     border: none;
-    background-color: #1a7b1e;
+    background-color: #1f7922;
 }
 
 .list__button:hover {
@@ -55,18 +55,4 @@
 .section {
     background-color: #ffffff;
     box-shadow: 0 0 10px #ddd;
-}
-
-.section__h {
-    padding: 20px;
-    border-bottom: 10px solid #ffffff;
-    margin: 0;
-}
-
-.section__h--l {
-    margin: 10px 0px 0px 0px;
-}
-
-.section__l{
-    text-decoration: line-through;
 }

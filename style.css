@@ -14,3 +14,17 @@ html {
     word-break: break-word;
     max-width: 900px;
 }
+
+.section__h {
+    padding: 20px;
+    border-bottom: 10px solid #ffffff;
+    margin: 0;
+}
+
+.section__h--l {
+    margin: 10px 0px 0px 0px;
+}
+
+.section__l{
+    text-decoration: line-through;
+}

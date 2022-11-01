@@ -56,7 +56,6 @@
       document.querySelector(".js-tought").innerHTML = htmlString;
       bindEvents();
     };
-  
     const onFormSubmit = (event) => {
       event.preventDefault();
       const newTaskContent = document.querySelector(".js-nT").value.trim();
