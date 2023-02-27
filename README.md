@@ -1,6 +1,6 @@
 # to-do-list
 
-### Functions used...
+### Technologies used:
 
 # CSS
 # JAVASCRIPT
