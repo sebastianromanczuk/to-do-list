@@ -8,7 +8,7 @@
 
 ### Functions used...
 
-- Css
-- JavaScript
-- Html
+# CSS
+# JAVASCRIPT
+# HTML
 
