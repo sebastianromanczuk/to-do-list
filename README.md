@@ -1,6 +1,12 @@
 # to-do-list
 
-## LINK: https://sebastianromanczuk.github.io/to-do-list/
+### Functions used...
+
+# CSS
+# JAVASCRIPT
+# HTML
+
+## DEMO: https://sebastianromanczuk.github.io/to-do-list/
 
 ## Shows in a project how to add an object and delete in to-do-list, using the given programming language :)
 
