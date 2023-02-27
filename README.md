@@ -12,5 +12,5 @@
 
 ![to-do-list](https://i.postimg.cc/1tRkMs4w/1.png)
 
-# SEE YOU LETER :)
+# SEE YOU LATER :)
 
